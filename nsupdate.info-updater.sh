@@ -3,7 +3,7 @@
 # Copyright 2015-2017 Joao Eriberto Mota Filho <eriberto@eriberto.pro.br>
 # You can use this script under BSD-3-clause conditions.
 
-# nsupdate.info is a free ando open dynamic DNS (DDNS) service, available
+# nsupdate.info is a free and open dynamic DNS (DDNS) service, available
 # at https://www.nsupdate.info/
 #
 # nsupdate.info-updater is used to update IP addresses in nsupdate.info.
