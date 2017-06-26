@@ -16,7 +16,7 @@ it to the system, avoiding a block action from the system.
 
 * Copy the conf file to /etc.
 * Create the /var/lib/nsupdate.info-updater/ directory.
-* Execute the script: ./update.info-updater to test.
+* Execute the script: ./update.info-updater.sh to test.
 * Use crontab to call the script each 5 or 10 minutes.
 
 ## Dependencies
@@ -25,4 +25,4 @@ This program depends of the bash and of the commands curl, dig and logger.
 
 ## License
 
-BSD-3-Clause
+This program is under BSD-3-Clause.
